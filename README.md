@@ -16,10 +16,12 @@ Security is a priority with the Accurate-Cyber-Defense-Advanced-Network-Traffic-
 
 Accurate-Cyber-Defense-Advanced-Network-Traffic-Generator-Bot is not just a simple traffic generator—it's a powerful, automated, and intelligent simulation framework. It bridges the gap between active network defense and traffic simulation, enabling organizations to stay ahead of threats while maintaining control and visibility via Telegram. Its extensibility, performance, and real-time interaction make it a must-have tool in every cyber defender’s toolkit.
 
-**How to install**
-
+## How to install
+```bash
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Advanced-Network-Traffic-Generator-Bot.git
-
-**How to run**
-
+cd Accurate-Cyber-Defense-Advanced-Network-Traffic-Generator-Bot
+```
+## How to run
+```bash
 python Accurate-Cyber-Defense-Advanced-Network-Traffic-Generator-Bot.py
+```
